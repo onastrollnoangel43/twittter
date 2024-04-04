@@ -15,7 +15,7 @@ IRC channel.
 
 For more information:
 
- * install the [package](https://pypi.org/project/twitter/) `pip install twitter`
+ * install the [package](https://pypi.org/project/twittter/) `pip install twittter`
  * import the `twitter` package and run `help()` on it
  * run `twitter -h` for command-line tool help
 
